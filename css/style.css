@@ -1,0 +1,16 @@
+.wraper {
+    color: rgb(212, 10, 10);
+}
+/* #elem1 {
+    background-color: blue;
+}
+#elem2 {
+    background-color: green;
+    padding: 10px;
+} */
+
+td {
+    width: 30px;
+	height: 30px;
+	border: 1px solid black;
+}
